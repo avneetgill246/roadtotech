@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "https://avneetgill246.github.io/roadtotech/static/css/main.fd7c2662.chunk.css",
-    "main.js": "https://avneetgill246.github.io/roadtotech/static/js/main.63df4ee1.chunk.js",
-    "main.js.map": "https://avneetgill246.github.io/roadtotech/static/js/main.63df4ee1.chunk.js.map",
-    "runtime-main.js": "https://avneetgill246.github.io/roadtotech/static/js/runtime-main.d88f29aa.js",
-    "runtime-main.js.map": "https://avneetgill246.github.io/roadtotech/static/js/runtime-main.d88f29aa.js.map",
-    "static/css/2.f524894f.chunk.css": "https://avneetgill246.github.io/roadtotech/static/css/2.f524894f.chunk.css",
-    "static/js/2.23f1e895.chunk.js": "https://avneetgill246.github.io/roadtotech/static/js/2.23f1e895.chunk.js",
-    "static/js/2.23f1e895.chunk.js.map": "https://avneetgill246.github.io/roadtotech/static/js/2.23f1e895.chunk.js.map",
-    "index.html": "https://avneetgill246.github.io/roadtotech/index.html",
-    "precache-manifest.dbb99505833a16fc770d8701607c37ff.js": "https://avneetgill246.github.io/roadtotech/precache-manifest.dbb99505833a16fc770d8701607c37ff.js",
-    "service-worker.js": "https://avneetgill246.github.io/roadtotech/service-worker.js",
-    "static/css/2.f524894f.chunk.css.map": "https://avneetgill246.github.io/roadtotech/static/css/2.f524894f.chunk.css.map",
-    "static/css/main.fd7c2662.chunk.css.map": "https://avneetgill246.github.io/roadtotech/static/css/main.fd7c2662.chunk.css.map",
-    "static/js/2.23f1e895.chunk.js.LICENSE.txt": "https://avneetgill246.github.io/roadtotech/static/js/2.23f1e895.chunk.js.LICENSE.txt",
-    "static/media/coding.svg": "https://avneetgill246.github.io/roadtotech/static/media/coding.4ce3c492.svg",
-    "static/media/d.svg": "https://avneetgill246.github.io/roadtotech/static/media/d.a74add0b.svg",
-    "static/media/f.svg": "https://avneetgill246.github.io/roadtotech/static/media/f.1f872be3.svg"
+    "main.css": "/roadtotech/static/css/main.fd7c2662.chunk.css",
+    "main.js": "/roadtotech/static/js/main.5401398b.chunk.js",
+    "main.js.map": "/roadtotech/static/js/main.5401398b.chunk.js.map",
+    "runtime-main.js": "/roadtotech/static/js/runtime-main.4936b878.js",
+    "runtime-main.js.map": "/roadtotech/static/js/runtime-main.4936b878.js.map",
+    "static/css/2.f524894f.chunk.css": "/roadtotech/static/css/2.f524894f.chunk.css",
+    "static/js/2.23f1e895.chunk.js": "/roadtotech/static/js/2.23f1e895.chunk.js",
+    "static/js/2.23f1e895.chunk.js.map": "/roadtotech/static/js/2.23f1e895.chunk.js.map",
+    "index.html": "/roadtotech/index.html",
+    "precache-manifest.0c71fbd668b84117693e439d487ed229.js": "/roadtotech/precache-manifest.0c71fbd668b84117693e439d487ed229.js",
+    "service-worker.js": "/roadtotech/service-worker.js",
+    "static/css/2.f524894f.chunk.css.map": "/roadtotech/static/css/2.f524894f.chunk.css.map",
+    "static/css/main.fd7c2662.chunk.css.map": "/roadtotech/static/css/main.fd7c2662.chunk.css.map",
+    "static/js/2.23f1e895.chunk.js.LICENSE.txt": "/roadtotech/static/js/2.23f1e895.chunk.js.LICENSE.txt",
+    "static/media/coding.svg": "/roadtotech/static/media/coding.4ce3c492.svg",
+    "static/media/d.svg": "/roadtotech/static/media/d.a74add0b.svg",
+    "static/media/f.svg": "/roadtotech/static/media/f.1f872be3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d88f29aa.js",
+    "static/js/runtime-main.4936b878.js",
     "static/css/2.f524894f.chunk.css",
     "static/js/2.23f1e895.chunk.js",
     "static/css/main.fd7c2662.chunk.css",
-    "static/js/main.63df4ee1.chunk.js"
+    "static/js/main.5401398b.chunk.js"
   ]
 }
