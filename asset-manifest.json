@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/roadtotech/static/css/main.fd7c2662.chunk.css",
-    "main.js": "/roadtotech/static/js/main.34d3631c.chunk.js",
-    "main.js.map": "/roadtotech/static/js/main.34d3631c.chunk.js.map",
+    "main.js": "/roadtotech/static/js/main.2656f66d.chunk.js",
+    "main.js.map": "/roadtotech/static/js/main.2656f66d.chunk.js.map",
     "runtime-main.js": "/roadtotech/static/js/runtime-main.4936b878.js",
     "runtime-main.js.map": "/roadtotech/static/js/runtime-main.4936b878.js.map",
     "static/css/2.f524894f.chunk.css": "/roadtotech/static/css/2.f524894f.chunk.css",
     "static/js/2.4caac9f1.chunk.js": "/roadtotech/static/js/2.4caac9f1.chunk.js",
     "static/js/2.4caac9f1.chunk.js.map": "/roadtotech/static/js/2.4caac9f1.chunk.js.map",
     "index.html": "/roadtotech/index.html",
-    "precache-manifest.d5053965ae0f68b73e7487f810d22358.js": "/roadtotech/precache-manifest.d5053965ae0f68b73e7487f810d22358.js",
+    "precache-manifest.20ed0810a648c955469c147f9d5462bf.js": "/roadtotech/precache-manifest.20ed0810a648c955469c147f9d5462bf.js",
     "service-worker.js": "/roadtotech/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/roadtotech/static/css/2.f524894f.chunk.css.map",
     "static/css/main.fd7c2662.chunk.css.map": "/roadtotech/static/css/main.fd7c2662.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.f524894f.chunk.css",
     "static/js/2.4caac9f1.chunk.js",
     "static/css/main.fd7c2662.chunk.css",
-    "static/js/main.34d3631c.chunk.js"
+    "static/js/main.2656f66d.chunk.js"
   ]
 }
