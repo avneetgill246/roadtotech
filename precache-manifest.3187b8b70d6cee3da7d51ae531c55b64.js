@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25940955246e9002c489d5d774874b8c",
+    "revision": "0ab08b1f1167cdf14e0fa1d1029c2f67",
     "url": "/roadtotech/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roadtotech/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "0bd2839fbc9b87d3476e",
+    "revision": "e394ff30ca8842d30c92",
     "url": "/roadtotech/static/css/main.fd7c2662.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roadtotech/static/js/2.4caac9f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0bd2839fbc9b87d3476e",
-    "url": "/roadtotech/static/js/main.fcb78f30.chunk.js"
+    "revision": "e394ff30ca8842d30c92",
+    "url": "/roadtotech/static/js/main.1861b109.chunk.js"
   },
   {
     "revision": "9b962fd9d19a966f9d50",
